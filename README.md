@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phmgaguli
-- 👀 I’m interested in everything that is for my development.
-- 🌱 I’m currently an intern at BCX learning about SAP ...
+- 👀 I’m interested in everything that is about programming.
+- 🌱 I’m currently working at BCX  and learning about SAP ...
 
 
 <!---
